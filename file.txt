@@ -1,2 +1,2 @@
 menambah file1.txt
-menambah apa saja file1.txt
+menambah apa saja file1.txt 
